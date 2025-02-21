@@ -1,0 +1,13 @@
+.code-preview {
+  background: #e3e3e3;
+  border-radius: 8px;
+  padding: 16px;
+  font-size: 12px;
+  position: relative;
+
+  .json {
+    line-height: 1.4;
+    font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier;
+    white-space: pre-wrap;
+  }
+}
